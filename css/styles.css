@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.navbar{
+    background-color: burlywood;
+    display: flex;
+    height: 50px;
+    font-weight: 700;
+    color: red;
+    padding: 1em;   
+    text-align: center;    
+    position: sticky;    
+    top: 0;   
+    
+}
+.navbar li{
+    list-style: none;
+    padding: 26px 30px;
+    
+    
+}
+.menuitems li{
+    align-items: center;
+    text-align: center;
+    
+    
+}
+.logo a span{
+    color: green;
+    
+}
+.logo{
+    
+    font-size: 35px;
+    font-weight: 600;
+    align-items: left;
+    align-items: left;
+}
+a:link {
+    color: red;
+        }
+a:visited {
+            color: blue;
+
+          }
+a:hover {
+            color:yellow;
+        }
+a:active {
+            color:sienna;
+          }
