@@ -61,21 +61,16 @@ a:active {
     width: 100%;
             
         }     
-    h1{
+    h1,h2{
         text-align: center;
     }    
     .column1{
         float: left;
         width: 40%;
         }
-    .column11{
-        float: left;
-        width: 10%;
-    }
-    .column11{
-        float: left;
-        width: 30%;
-    }
+    
+        
+    
     .column2{
         float: right;
         width: 60%;
@@ -109,4 +104,10 @@ th, td {
 }
 th, td {
     border: 1px solid black;
+}
+.column1.hobbies{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    text-decoration: none;
+    text-align: justify;
 }
