@@ -95,11 +95,14 @@ th, td {
     border-width: 10px;
     background-color: lightpink;
     padding-right: 10px;
-    float: right;
     text-align: center;
+    float: right;
     outline-width: 10px;
     max-height: 95%;
     padding-bottom: 0px;
+    font-size: medium;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 th, td {
     border: 1px solid black;
