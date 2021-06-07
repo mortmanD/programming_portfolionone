@@ -52,3 +52,61 @@ a:hover {
 a:active {
             color:sienna;
           }
+ .profpic{
+    display: flex;    
+    align-items: justify;
+    height: 200px;
+    width: fit-content;    
+    padding-right: 50px;
+    width: 100%;
+            
+        }     
+    h1{
+        text-align: center;
+    }    
+    .column1{
+        float: left;
+        width: 40%;
+        }
+    .column11{
+        float: left;
+        width: 10%;
+    }
+    .column11{
+        float: left;
+        width: 30%;
+    }
+    .column2{
+        float: right;
+        width: 60%;
+    }
+    .table{
+    border: lemonchiffon;
+    border-style: dotted;
+    border-width: 10px;
+    background-color: lightpink;
+    padding-right: 10px;
+    float: right;
+    text-align: center;
+    outline-width: 10px;
+    max-height: 95%;
+    padding-bottom: 0px;
+}
+th, td {
+    border: 1px solid black;
+}
+.table{
+    border: lemonchiffon;
+    border-style: dotted;
+    border-width: 10px;
+    background-color: lightpink;
+    padding-right: 10px;
+    float: right;
+    text-align: center;
+    outline-width: 10px;
+    max-height: 95%;
+    padding-bottom: 0px;
+}
+th, td {
+    border: 1px solid black;
+}
